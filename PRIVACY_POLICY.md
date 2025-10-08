@@ -34,7 +34,7 @@ Mars Dice is a browser extension that lets you roll a dice on any webpage and cu
 - We may update this policy as the extension evolves. The “Last updated” date above will be changed when updates occur.
 
 ## Contact
-- Email: your-email@example.com
+- Email: 1970304481@qq.com
 
 ---
 
@@ -74,4 +74,4 @@ Mars Dice is a browser extension that lets you roll a dice on any webpage and cu
 - 随扩展演进，我们可能更新本政策。更新时，我们会修改文首“最近更新”日期。
 
 ## 联系方式
-- Email：your-email@example.com
+- Email：1970304481@qq.com
